@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=520&lines=Thiago+Hungria;Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Building+clean%2C+useful+products" alt="Thiago Hungria" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Thiago+Hungria;Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Building+clean%2C+useful+products" alt="Thiago Hungria" />
 
 <p>
   <em>17 y/o Full&nbsp;Stack Developer &amp; Digital Marketer from Brazil.<br/>
@@ -17,7 +17,7 @@
   <a href="mailto:thiagohungriaabsn@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/ThiagoHungria"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <!-- <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-  <img src="https://komarev.com/ghpvc/?username=ThiagoHungria&style=flat-square&color=22C55E&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ThiagoHungria&style=flat-square&color=DC2626&label=Profile+views" alt="Profile views" />
 </p>
 
 </div>
@@ -70,12 +70,12 @@
  
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ThiagoHungria&show_icons=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=8B949E&bg_color=0D1117" alt="Thiago's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHungria&layout=compact&hide_border=true&title_color=22C55E&text_color=8B949E&bg_color=0D1117" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ThiagoHungria&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=8B949E&bg_color=0D1117" alt="Thiago's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHungria&layout=compact&hide_border=true&title_color=2563EB&text_color=8B949E&bg_color=0D1117" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoHungria&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=8B949E&dates=8B949E&stroke=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoHungria&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=8B949E&dates=8B949E&stroke=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 
 </div>
 
