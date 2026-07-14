@@ -13,6 +13,7 @@
 </p>
 
 <p>
+  <a href="https://thungriadev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:thiagohungriaabsn@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/ThiagoHungria"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <!-- <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
