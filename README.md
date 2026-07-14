@@ -18,12 +18,12 @@
   I build modern web products with Next.js, TypeScript and a strong eye for UX.</em>
 </p>
 
-<!-- TODO: add your links — replace the # below with your LinkedIn/portfolio/email and uncomment the badges.
+<!-- TODO: add LinkedIn + Portfolio when available and uncomment the badges below.
   <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 -->
 <p>
+  <a href="mailto:thiagohungriaabsn@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/ThiagoHungria"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=ThiagoHungria&style=flat-square&color=22C55E&label=Profile+views" alt="Profile views" />
 </p>
