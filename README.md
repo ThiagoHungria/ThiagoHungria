@@ -66,7 +66,7 @@
 | **[LeveMente NEXUS](https://github.com/ThiagoHungria/levemente-nexus)** | Smart school platform for full-time students: gamification, mental health & guided study. | Next.js · TS · FastAPI |
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThiagoHungria&show_icons=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=8B949E&bg_color=0D1117" alt="Thiago's GitHub stats" />
